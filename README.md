@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&text=Welcome+to+Do-Hwan's+Github+%F0%9F%91%8B&section=header&fontSize=30&animation=twinkling&fontAlign=70&fontAlignY=30)
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=29F765&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+Do-Hwan's+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+-->
+
+
 
 <!--
 **Do-Hwan/Do-Hwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
